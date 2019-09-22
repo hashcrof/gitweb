@@ -1,0 +1,69 @@
+commit 0662da725f942fdf0892fae5a44944e538bb3fe4
+Author: John Doe <John.Doe@test.com>
+Date:   Tue Mar 20 17:16:23 2012 -0400
+
+    rollup interval converter testing
+
+commit 84a5142739f8ee9b24a92791cf34720683dd0213
+Author: Mike Smith <mike@somedomain.com>
+Date:   Tue Mar 20 15:29:02 2012 -0400
+
+    Fixing a lot of broken tests
+
+commit baf1047b2658461486a9e24f0dc3c00a996ea036
+Author: John Doe <John.Doe@raritan.com>
+Date:   Tue Mar 20 13:46:58 2012 -0400
+
+    CR 38743. Fixing old rollup helpers to work with new models.
+
+commit d97ad4c9afcc01a4120721e9896eac1b002df9b6
+Author: Mike Smith <mike@somedomain.com>
+Date:   Tue Mar 20 10:57:19 2012 -0400
+
+    Removing redundant calls to format.json
+
+commit 44aa90243bc07fcc6fea31799072c6b7be643075
+Merge: ae5a30e 76bde21
+Author: Mike Smith <mike@somedomain.com>
+Date:   Mon Mar 19 11:10:14 2012 -0400
+
+    Merge branch 'master' into rollup_table_split_up
+
+commit ce69e619048685d6c35ae350db7cdcd57febe479
+Author: Mike Smith <mike@somedomain.com>
+Date:   Fri Mar 16 09:36:49 2012 -0400
+
+    Fixing a jslint warning.
+
+commit 44aa90243bc07fcc6fea31799072c6b7be643075
+Merge: ae5a30e 76bde21
+Author: Mike Smith <mike@somedomain.com>
+Date:   Mon Mar 19 11:10:14 2012 -0400
+
+    Merge branch 'master' into rollup_table_split_up
+
+commit 6ce2fcd25c8d12c8975281f6282288c09411f50d
+Author: Mike Smith <mike@somedomain.com>
+Date:   Thu Mar 15 18:20:47 2012 -0400
+
+    Updating Hudson CI script to work for 4.0 and no submodules.
+
+commit 611d645bc2a919ee118052f9909338edcd4ba2cb
+Author: Mike Smith <mike@somedomain.com>
+Date:   Wed Mar 14 16:27:21 2012 -0400
+
+    Fixing fixture_file_upload for RSpec 2.8
+
+commit ae5a30e09082bd5b613c14235b0dd77109f21dcd
+Author: Susan Jones <susan.jones@test.com>
+Date:   Wed Mar 14 16:10:10 2012 -0400
+
+    PDUs grid no longer depends on cookies.
+
+    CR #39874
+
+commit efda6c44c8b96665130eda0f20004b6e486d0774
+Author: Mike Smith <mike@somedomain.com>
+Date:   Wed Mar 14 16:00:14 2012 -0400
+
+    CR number 38161. Fixing regular expression for matching IPv4 addresses.
