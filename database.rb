@@ -9,7 +9,8 @@ def create_db
       first_name varchar(30),
       last_name varchar(30),
       email_address varchar(255),
-      id INTEGER PRIMARY KEY AUTOINCREMENT
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      UNIQUE(first_name,last_name,email_address)
     );
   SQL
 
